@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/sceneio">
+        <file alias="load">source/icon_sceneIO/load.png</file>
+        <file alias="print">source/icon_sceneIO/print.png</file>
+        <file alias="save">source/icon_sceneIO/save.png</file>
+    </qresource>
+    <qresource prefix="/drawtool">
+        <file alias="polygon_s">source/icon_drawTool/polygon_s.png</file>
+        <file alias="rect">source/icon_drawTool/rect.png</file>
+        <file alias="rect_s">source/icon_drawTool/rect_s.png</file>
+        <file alias="rect_sr">source/icon_drawTool/rect_sr.png</file>
+    </qresource>
+    <qresource prefix="/custombtn">
+        <file alias="fit">source/icon_btnCustom/fitImage.png</file>
+    </qresource>
+</RCC>
